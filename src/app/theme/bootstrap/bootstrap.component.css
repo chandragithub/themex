@@ -1,0 +1,12 @@
+.theme-container {
+    margin-top: 1rem;
+}
+
+.control-panel {
+    position: sticky;
+    top: 4rem;
+    z-index: 1000;
+    height: calc(100vh - 4rem);
+    border-right: 1px solid rgb(228, 225, 225);
+    overflow: scroll;
+}

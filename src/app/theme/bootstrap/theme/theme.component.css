@@ -1,0 +1,15 @@
+.highlight-blue {
+    color: #fff;
+    background-color: #1e6add;
+    padding: 50px 0;
+}
+
+.button-outline-top {
+    margin: 10px;
+    border-bottom: 1px solid #d6d6d6;
+    padding: 10px;
+}
+
+.preview-theme {
+    border: 1px solid #e8e9eb;
+}
